@@ -43,7 +43,7 @@ tests:
       resources:
         requests:
           cpu: 100m
-    workflow: ipi-aws
+    workflow: openshift-e2e-aws
 zz_generated_metadata:
   branch: master
   org: openshift
